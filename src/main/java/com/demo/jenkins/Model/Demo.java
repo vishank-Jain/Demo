@@ -15,4 +15,5 @@ public class Demo {
 	String id;
 	String name;
 	String status;
+	String ee;
 }
